@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic);
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
 
 *,
 *::after,
@@ -103,10 +103,9 @@ body {
 .text {
   margin-top: 1em;
   color: #272727;
-  font-family: "Lato", sans-serif;
-  font-weight: bold;
+  font-family: "Comic Neue", cursive;
+  font-weight: 700;
 
-  font-style: italic;
   text-align: center;
   display: flex;
   align-items: center;
